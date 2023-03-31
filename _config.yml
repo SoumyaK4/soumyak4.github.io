@@ -1,6 +1,15 @@
 title: SoumyaK4
 description: Martial Arts for Body & Brain
 theme: just-the-docs
-
+color_scheme: dark
 url: https://soumyak4.github.io
+
+logo: "https://github.com/SoumyaK4/Baduk-Roadmap/blob/977843e79488e227508371df504287784c0b6d80/assets/images/Logo%20W.png"
+favicon_ico: "https://raw.githubusercontent.com/SoumyaK4/Baduk-Roadmap/main/assets/images/favicon.ico"
+
+# External navigation links
+nav_external_links:
+  - title: Baduk Roadmap
+    url: https://soumyak4.github.io/Baduk-Roadmap/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
 
