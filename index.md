@@ -8,7 +8,7 @@ This is a *bare-minimum* template to create a Jekyll site that uses the [Just th
 ----
 <iframe width="424" height="238" src="https://www.youtube.com/embed/5dRqABOWXXQ" title="WSLVT - At WSLVT INDIA HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-{% include youtubePlayer.html id=5dRqABOWXXQ %}
+<iframe width="1349" height="488" src="https://www.youtube.com/embed/u-M5eqLBA9A" title="WSLVT - Chain Punch Shadow Boxing (Old Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 
