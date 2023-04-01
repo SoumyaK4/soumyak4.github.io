@@ -1,7 +1,6 @@
 ---
-title: Home
+title: 
 layout: home
-nav_order: 2
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme.
