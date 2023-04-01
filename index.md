@@ -17,5 +17,4 @@ layout: home
 
 <hr class="solid">
 
-<h3 align="left">↓ Help me keep my sanity through my learning journey ↓</h3><br>
-<p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p>
+<h3 align="left">Help me keep my sanity through my learning journey </h3><a href="https://www.buymeacoffee.com/SoumyaK4"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a>
