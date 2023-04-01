@@ -14,3 +14,5 @@ layout: home
 - 🌱 I’m currently learning **[Exploratory Data Analysis with Python at INSAID](https://www.insaid.co/certificate-in-data-science-foundation/)**
 
 - 💬 [Ask me](https://t.me/SoumyaK4) about: **Martial Arts for [Body](https://fb.com/WIngChunPalta/) & [Brain](https://soumyak4.github.io/Baduk-Roadmap/)**
+
+- <a href="https://www.buymeacoffee.com/SoumyaK4" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buy" height="25px" width="105px"/></a>
