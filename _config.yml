@@ -11,5 +11,9 @@ favicon_ico: "/assets/images/favicon.ico"
 nav_external_links:
   - title: Baduk Roadmap
     url: https://soumyak4.github.io/Baduk-Roadmap/
-    hide_icon: true # set to true to hide the external link icon - defaults to false
+    hide_icon: true 
+    
+    - title: Home
+    url: https://soumyak4.github.io/
+    hide_icon: true 
 
