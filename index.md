@@ -6,12 +6,10 @@ nav_order: 1
 
 <h1 >Hi 👋, I'm Soumya, A Passionate Student From India</h1>
 
-- 🔭 Currently working as a Mentor & Treasurer at [AIGP](https://aigp.org.in/)
+- 🔭 **Currently working as a Mentor & Treasurer at <a href="https://aigp.org.in/" target="_blank">AIGP</a>**
 
-- ⚡ **Check this [Roadmap](https://soumyak4.github.io/Baduk-Roadmap/) I created for Weiqi / Baduk**
+- ⚡ **Check this <a href="https://soumyak4.github.io/baduk/Roadmap/" target="_blank">Roadmap</a> I created for Weiqi / Baduk**
 
-- 📄 [The Fallen Poet](https://www.miraquill.com/the_fallen_poet)
+- 🌱 <a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>
 
-- 🌱 I’m currently learning **[Exploratory Data Analysis with Python at INSAID](https://www.insaid.co/certificate-in-data-science-foundation/)**
-
-- 💬 [Ask me](https://t.me/SoumyaK4) about: **Martial Arts for [Body](https://fb.com/WIngChunPalta/) & [Brain](https://soumyak4.github.io/Baduk-Roadmap/)**
+- 💬 Ask me about: **Martial Arts for Body & Brain**
