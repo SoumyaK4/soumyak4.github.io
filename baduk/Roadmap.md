@@ -10,7 +10,7 @@ I hope this helps you on your learning journey as well. You can connect with me 
 
 <b>Weiqi/Baduk is an abstract strategy board game for two players. The game was invented in China more than 4,500 years ago and is believed to be the oldest board game continuously played to the present day.<br></b>
 
-<b>Special Wiki for Baduk / Weiqi : <a href="https://senseis.xmp.net/?StartingPoints" target="_blank"> Sensei’s Site </a></b>
+<b>Special Wiki for Baduk / Weiqi : <a href="https://senseis.xmp.net/?StartingPoints" target="_blank"> Sensei’s Library </a></b>
 
 <b>Beginners/DDKs <b><a href='https://soumyak4.github.io/baduk/DDK'><button type="button" name="button" class="btn">Click Here</button></a> | 
 SDKs <a href='https://soumyak4.github.io/baduk/SDK'><button type="button" name="button" class="btn">Click Here</button></a></b><br>
