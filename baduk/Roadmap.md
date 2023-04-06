@@ -14,7 +14,4 @@ I hope this helps you on your learning journey as well. You can connect with me 
 
 <b>Special Wiki for Baduk / Weiqi : <a href="https://senseis.xmp.net/?StartingPoints" target="_blank"> Sensei’s Library </a></b>
 
-<b>Beginners/DDKs <b><a href='https://soumyak4.github.io/baduk/DDK'><button type="button" name="button" class="btn">Click Here</button></a> | 
-SDKs <a href='https://soumyak4.github.io/baduk/SDK'><button type="button" name="button" class="btn">Click Here</button></a></b><br>
-
-<b><a href='https://soumyak4.github.io/baduk/Resources'>Click Here</a> for online Baduk/Weiqi Resources List</b>
+<a href='https://soumyak4.github.io/baduk/lectures'>Click Here</a> to get access to my collection of lectures(15Kyu to 4Dan)
