@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Socials
-nav_order: 1
+nav_order: 2
 ---
 
 - <a href="https://www.youtube.com/@SoumyaK4/" target="_blank">YouTube</a>
