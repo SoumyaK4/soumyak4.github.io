@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 <h1 >Hi 👋, I'm Soumya, A Passionate Student From India</h1>
