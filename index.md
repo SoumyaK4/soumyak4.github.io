@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<h2>Hi 👋, I'm Soumya, A Passionate Student From India</h1>
+<h2>Hi 👋, I'm Soumya, A Passionate Student From India</h2>
 
 - 🔭 **Currently working as a Mentor & Treasurer at <a href="https://aigp.org.in/" target="_blank">AIGP</a>**
 
