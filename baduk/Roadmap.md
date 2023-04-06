@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Baduk Roadmap by SoumyaK4
-nav_order: 1
+nav_order: 2
 ---
 
 <b>Hello, I am Soumya, a proud member of <a href="https://aigp.org.in/" target="_blank"> Association Of Indian Go Players </a><br>
