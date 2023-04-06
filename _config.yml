@@ -9,10 +9,6 @@ favicon_ico: "/assets/images/favicon.ico"
 
 # External navigation links
 nav_external_links:
-  - title: Baduk Roadmap
-    url: https://soumyak4.github.io/Baduk-Roadmap/
-    hide_icon: true 
-    
   - title: Cofee
     url: https://www.buymeacoffee.com/SoumyaK4
     hide_icon: true 
