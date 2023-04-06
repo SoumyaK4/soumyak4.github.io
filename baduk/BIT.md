@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interactive Tutorial
+title: Beginner Interactive Tutorial
 parent: Resources
 grand_parent: Baduk Roadmap
 nav_order: 1
