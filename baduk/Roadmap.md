@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Baduk Roadmap by SoumyaK4
+title: Baduk Roadmap
 nav_order: 2
 ---
 
