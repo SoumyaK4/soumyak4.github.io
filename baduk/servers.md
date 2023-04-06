@@ -23,16 +23,19 @@ nav_order: 2
 - [Windows](https://itunes.apple.com/us/app/tygem-baduk/id416039506?mt=8), [Android](https://play.google.com/store/apps/details?id=com.tyo.tygem&hl=en_IN&gl=US), [iOS](https://apps.apple.com/us/app/tygembaduk-for-all-ages/id416039506).
 - Live games only.
 
-[Pandanet / IGS](https://pandanet-igs.com/communities/pandanet)
+<a href="https://pandanet-igs.com/communities/pandanet" target="_blank">WBaduk</a>
 - A popular Japanese server.
 - [Computer](https://pandanet-igs.com/communities/gopanda2), [Android](https://play.google.com/store/apps/details?id=be.gentgo.tetsuki&hl=en), [iOS](https://apps.apple.com/app/panda-tetsuki/id406456426).
 - Live games only.
 
-[WBaduk](http://www.wbaduk.com/)
+<a href="http://www.wbaduk.com/" target="_blank">WBaduk</a>
 - [Windows](http://www.wbaduk.com/download/WBaduk_20210727A.exe), [iOS](https://apps.apple.com/us/app/wbaduk/id449564651) and [Android](https://m.apkpure.com/wbaduk/com.wbaduk) clients.
 - Live games only.
 
-[Go KGS](http://www.gokgs.com/)
+<a href="https://home.yikeweiqi.com/" target="_blank">Yike Weiqi</a>
+- Browser based chinese server
+
+<a href="http://www.gokgs.com/" target="_blank">Go KGS</a>
 - A very old one, not recommended for DDKs
 - [Windows](http://files.gokgs.com/javaBin/cgoban.exe), [Mac](http://files.gokgs.com/javaBin/cgoban.dmg) and in-browser [Shin KGS](https://shin.gokgs.com/).
 
