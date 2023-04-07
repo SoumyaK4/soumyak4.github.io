@@ -6,9 +6,10 @@ has_children: true
 has_toc: false
 ---
 
-<b>Hello, I am Soumya, a proud member of <a href="https://aigp.org.in/" target="_blank"> Association Of Indian Go Players </a><br>
+<b>Hello, I am Soumya, a proud member of <a href="https://aigp.org.in/" target="_blank"> Association Of Indian Go Players </a></b><br>
+
 I've created this roadmap from my experience of jumping 15 ranks from being a beginner within a year.<br>
-I hope this helps you on your learning journey as well. You can connect with me & numerous other Indian Go Game enthusiasts at <a href="https://aigp.org.in/pages/contact.html" target="_blank"> AIGP </a></b>
+I hope this helps you on your learning journey as well. You can connect with me & numerous other Indian Go Game enthusiasts at <a href="https://aigp.org.in/pages/contact.html" target="_blank"> AIGP </a>
 
 <b>Weiqi/Baduk is an abstract strategy board game for two players. The game was invented in China more than 4,000 years ago and is believed to be the oldest board game continuously played to the present day without much changes to the main rules/concepts.<br></b>
 
