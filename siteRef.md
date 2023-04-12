@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 
 [Embeds](https://github.com/nathancy/jekyll-embed-video) <br>
-[Sitemap Gen](https://octopus.do/) <br>
+[Sitemap Gen](https://www.xml-sitemaps.com/) <br>
 [Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) <br>
 [Themes](https://github.com/planetjekyll/awesome-jekyll-themes) <br>
 [Search Console](https://search.google.com/search-console/) <br>
