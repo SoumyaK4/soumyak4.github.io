@@ -9,3 +9,4 @@ nav_exclude: true
 [Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) <br>
 [Themes](https://github.com/planetjekyll/awesome-jekyll-themes) <br>
 [Search Console](https://search.google.com/search-console/) <br>
+[Crawling indexing docs](https://developers.google.com/search/docs/crawling-indexing?hl=en) <br>
