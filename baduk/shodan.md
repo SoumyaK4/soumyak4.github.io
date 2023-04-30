@@ -9,6 +9,8 @@ nav_order: 3
 <h2>This is a stage where most people get stuck for a long time(or lifetime). </h2>
 
 - Be passionate and have fun otherwise it will all seem very frustrating. <br>Remember what it felt like when you first started getting more interested in this game? <br> Go watch **Hikaru no Go** again, always makes me more motivated.
+- Watch other people's games on YouTube and Twitch
+- Here's a Joseki <a href="https://www.youtube.com/playlist?list=PLoZIU5jkY_Y_Gfok4TDuCv6sO9pU_j2bQ" target="_blank">Playlist</a> by NYIG 
 
 1) Start reviewing your games with <a href="https://ai-sensei.com/" target="_blank">AI Sensei</a>
 
