@@ -11,19 +11,19 @@ nav_order: 3
 - Be passionate and have fun otherwise it will all seem very frustrating. <br>Remember what it felt like when you first started getting more interested in this game? <br> Go watch **Hikaru no Go** again, always makes me more motivated.
 - Watch other people's games on YouTube and Twitch
 - Here's a Joseki <a href="https://www.youtube.com/playlist?list=PLoZIU5jkY_Y_Gfok4TDuCv6sO9pU_j2bQ" target="_blank">Playlist</a> by NYIG 
+- Here's some <a href="https://www.youtube.com/playlist?list=PLW5_cMTm0wvZU5pQhmQFwXh-ojU1mQIg3" target="_blank">AI Josekis </a> by Michael Redmond 
+- Start reviewing your games with <a href="https://ai-sensei.com/" target="_blank">AI Sensei</a>
 
-1) Start reviewing your games with <a href="https://ai-sensei.com/" target="_blank">AI Sensei</a>
-
-2) Look for specefic courses on things you find difficult to do. Here are some websites:
+1) Look for specefic courses on things you find difficult to do. Here are some websites:
 - <a href="https://yunguseng.com/" target="_blank">Yunguseng Dojang's Spectator Subscription</a>
 - <a href="https://gomagic.org/course-categories/" target="_blank">GoMagic</a>
 - <a href="https://awesomebaduk.com/" target="_blank">Awesome Baduk</a>
 
-3) Find online study groups:
+2) Find online study groups:
 - <a href="https://openstudyroom.org/" target="_blank">Open Study Room</a>
 - <a href="https://discord.gg/cHSdZdPz9y" target="_blank">BeginnerGo</a>
 
-4) Find a paid teacher(optional). Here are some I recommend:
+3) Find a paid teacher(optional). Here are some I recommend:
 - <a href="https://yunguseng.com/" target="_blank">Yunguseng Dojang</a>
 - <a href="https://www.patreon.com/yoonyoung" target="_blank">Yoonyoung Kim</a>
 - <a href="https://www.patreon.com/dwyrin" target="_blank">Dwyrin</a>
