@@ -8,7 +8,7 @@ nav_order: 1
 
 - ⚡ **Co-Founder/Treasurer & Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
 
-- ⚡ **Check out this <a href="https://soumyak4.github.io/baduk/Roadmap.html" >Roadmap</a> I created for Weiqi / Baduk / Igo / Go Game**
+- ⚡ **Check out this Weiqi / Baduk <a href="https://soumyak4.github.io/baduk/Roadmap.html" >Roadmap</a> I created for Self Learners**
 
 - ⚡ **Teaching Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Cultural Centre - Palta</a>**  
 
