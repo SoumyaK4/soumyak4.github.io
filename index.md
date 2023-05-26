@@ -12,7 +12,7 @@ nav_order: 1
 
 - ⚡ **Teaching Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Cultural Centre - Palta</a>**  
 
-- ⚡ **Assistand Instructor of WSL Ving Tsun Kung Fu since 2018 @ <a href="https://www.google.com/search?q=wslvt+india&ie=UTF-8" target="_blank">WSLVT - India</a>**
+- ⚡ **Assistant Instructor of WSL Ving Tsun Kung Fu since 2018 @ <a href="https://www.google.com/search?q=wslvt+india&ie=UTF-8" target="_blank">WSLVT - India</a>**
 
 - ⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>**
 
