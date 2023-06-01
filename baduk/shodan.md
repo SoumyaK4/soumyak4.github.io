@@ -28,8 +28,9 @@ nav_order: 3
 - <a href="https://www.patreon.com/yoonyoung" target="_blank">Yoonyoung Kim</a>
 - <a href="https://www.patreon.com/dwyrin" target="_blank">Dwyrin</a>
 - <a href="https://shawnsgogroup.com/" target="_blank">Clossius</a>
+- <a href="https://kazsensei.com/" target="_blank">Kaz Sensei</a>
 - <a href="https://gomagic.org/go-lessons/" target="_blank">Vadim Efimenko</a>
-- <a href="https://www.patreon.com/goinside" target="_blank">Eunkyo Do</a>
 - <a href="https://www.patreon.com/benkyobaduk" target="_blank">BenKyo Baduk</a>
 - <a href="https://internetgoschool.com/" target="_blank">Guo Juan</a>
 - <a href="https://polgote.com/en/online-go-school" target="_blank">Mateusz Surma</a>
+- <a href="https://www.patreon.com/goinside" target="_blank">Eunkyo Do</a>
