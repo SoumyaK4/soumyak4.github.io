@@ -28,3 +28,4 @@ nav_order: 6
 20) [Yunguseng Dojang](https://www.youtube.com/user/YungusengDojang/featured) <br>
 21) [Go Game Series](https://www.youtube.com/c/jianqiuchen/featured) <br>
 22) [Jim Playes Go](https://www.youtube.com/channel/UCiC-U0LlProVXHgJsSXhQ8w) <br>
+23) [Simple Baduk](https://www.youtube.com/@simplebaduk/)
