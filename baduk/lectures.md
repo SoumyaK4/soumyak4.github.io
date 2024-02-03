@@ -5,5 +5,4 @@ parent: Baduk Roadmap
 nav_order: 9
 ---
 
-Under Construction
-
+Contact for Qweries Regarding Lectures
