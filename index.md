@@ -6,7 +6,7 @@ nav_order: 1
 
 ## Hi 👋, I'm Soumya, A Passionate Student From India<br>If you GET, GIVE. If you LEARN, TEACH.<br>Martial Arts for Body & Brain
 ---
-- ⚡ **Co-Founder/Treasurer & Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
+- ⚡ **Treasurer & Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
 
 - ⚡ **Check out this Weiqi / Baduk <a href="https://soumyak4.github.io/baduk/Roadmap.html" >Roadmap</a> I created for Self Learners**
 
