@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-## Hi 👋, I'm Soumya, A Passionate Student/Teacher From India<br>If you GET, GIVE. If you LEARN, TEACH.<br>
+# Hi 👋, I'm Soumya, A Passionate Student/Teacher From India<hr>
 
 ⚡ **Treasurer & Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
 
@@ -13,6 +13,8 @@ nav_order: 1
 ⚡ **Teaching WSL Ving Tsun/Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>**  
 
 ⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>**
+
+# If you GET, GIVE. If you LEARN, TEACH.
 
 
 
