@@ -4,9 +4,9 @@ layout: home
 nav_order: 3
 ---
 
-# My Experiences with different Martial Arts
+# My Experiences with different Martial Arts<hr>
 
-## Martial Arts for the Body
+## Martial Arts for the Body<hr>
 
 ⚡ **Practicing/Teaching Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>**  
 
@@ -18,7 +18,7 @@ nav_order: 3
 
 ⚡ **Practicing FMA - Askal Hybrid Balintawak since 2024** 
 
-## Martial Arts for the Brain
+## Martial Arts for the Brain<hr>
 
 ⚡ **Used to play chess as a child till 2018** 
 
