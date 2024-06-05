@@ -4,7 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-# Hi 👋, I'm Soumya, A Passionate Student/Teacher From India<hr>
+# Hi 👋, I'm Soumya, A Passionate Student/Teacher From India
+<hr>
 
 ⚡ **Treasurer & Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
 
