@@ -9,7 +9,7 @@ nav_order: 1
 
 ⚡ **Treasurer & Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
 
-⚡ **Check out this Weiqi / Baduk <a href="https://soumyak4.github.io/baduk/Roadmap.html" >Roadmap</a> I created for getting strong faster**
+⚡ **Check out this Weiqi / Baduk <a href="https://weiqi.soumyak4.in" >Roadmap</a> I created for getting strong faster**
 
 ⚡ **Teaching WSL Ving Tsun/Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>**  
 
