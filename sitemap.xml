@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
-  <loc>https://soumyak4.github.io/</loc>
+  <loc>https://soumyak4.in/</loc>
  </url>
  <url>
   <loc>https://soumyak4.github.io/baduk/Roadmap.html</loc>
  </url>
  <url>
-  <loc>https://soumyak4.github.io/baduk/DDK.html</loc>
- </url>
- <url>
-  <loc>https://soumyak4.github.io/baduk/SDK.html</loc>
- </url>
- <url>
-  <loc>https://soumyak4.github.io/baduk/resources.html</loc>
- </url>
- <url>
-  <loc>https://soumyak4.github.io/MA.html</loc>
+  <loc>https://soumyak4.in/MA.html</loc>
  </url>
 </urlset>
