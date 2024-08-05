@@ -7,13 +7,17 @@ nav_order: 1
 # Hi 👋, I'm Soumya, A Passionate Student/Teacher From India
 <hr>
 
-⚡ **Treasurer & Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
+⚡ **Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
 
-⚡ **Check out this Weiqi / Baduk <a href="https://weiqi.soumyak4.in" >Roadmap</a> I created for getting strong faster**
+⚡ **Check out this Weiqi / Baduk <a href="https://weiqi.soumyak4.in" >Roadmap/Guide/Resources</a> I created for Beginners**
 
-⚡ **Teaching WSL Ving Tsun/Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>**  
+⚡ **Check my <a href="https://soumyak4.in/MA.html">Experiences</a>**  
 
-⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>**
+⚡ Weird Subdomains of this site XD:
+  - <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a>
+  - <a href="http://slides.soumyak4.in/" target="_blank">Slides</a>
+
+<!-- ⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>** -->
 
 # If you GET, GIVE. If you LEARN, TEACH.
 
