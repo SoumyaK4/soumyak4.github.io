@@ -5,6 +5,7 @@ nav_order: 3
 has_children: false
 has_toc: false
 redirect_to: "https://weiqi.soumyak4.in"
+published: hidden
 ---
 
 <meta rel="canonical" http-equiv="refresh" content="0; url={{ page.redirect_to }}" />
