@@ -36,3 +36,5 @@ nav_order: 3
 ⚡ **Represented India at the <a href="https://aigp.org.in/2023/07/26/indian-representatives-2023.html" target="_blank">AWC(Asian Weiqi Championship)</a> in 2023** 
 
 ⚡ **Started Training Individuals to become Weiqi/Baduk Instructors since 2024** 
+
+⚡ **Represented India at the Asian Weiqi Championship by Chinese Weiqi Association in 2024** 
