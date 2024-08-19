@@ -13,11 +13,13 @@
             if (path === "/baduk/Roadmap" || path === "/baduk/Roadmap.html") {
                 window.location.href = "https://weiqi.soumyak4.in";
             } else if(path === "/MA.html") {
+                setTimeout(function() {
                 window.location.href = "https://soumyak4.in/MA";
+                }, 1000);
             } else {
                 setTimeout(function() {
                 window.location.href = "/"; // Replace "/" with the desired page URL
-                }, 5000);
+                }, 2000);
             }
         });
     </script>
