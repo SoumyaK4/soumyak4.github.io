@@ -9,11 +9,6 @@ favicon_ico: "/assets/images/favicon.ico"
 
 # External navigation links
 nav_external_links:
-  - title: Baduk / Weiqi Roadmap
-    url: https://weiqi.soumyak4.in/
-    hide_icon: true 
-    
-
   - title: Buy Me A Coffee
     url: https://www.buymeacoffee.com/SoumyaK4
     hide_icon: true 
