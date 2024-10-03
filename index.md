@@ -17,7 +17,9 @@ nav_order: 1
 
 ⚡ Weird Subdomains of this site XD: <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a> , <a href="http://slides.soumyak4.in/" target="_blank">Slides</a>
 
-<!-- ⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>** -->
+<!-- ⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>** 
+<a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a>
+-->
 
 # If you GET, GIVE. If you LEARN, TEACH.
 
