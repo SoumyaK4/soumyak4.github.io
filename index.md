@@ -13,7 +13,7 @@ nav_order: 1
 
 ⚡ **Check out this Weiqi / Baduk <a href="https://weiqi.soumyak4.in" >Roadmap/Guide/Resources</a> I created for Beginners**
 
-⚡ **Check my <a href="https://soumyak4.in/MA">Experiences</a>**  
+⚡ **Check my <a href="https://soumyak4.in/Experiences">Experiences</a>**  
 
 ⚡ Weird Subdomains of this site XD: <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a> , <a href="http://slides.soumyak4.in/" target="_blank">Slides</a>
 
