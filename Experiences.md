@@ -39,5 +39,5 @@ nav_order: 3
 
 ⚡ **Represented India at the Asian Weiqi Championship by Chinese Weiqi Association in 2024** 
 
-<!--
-<a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a>
+<!-- <a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a> -->
+
