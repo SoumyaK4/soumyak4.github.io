@@ -13,12 +13,12 @@ nav_order: 1
 
 ⚡ **Check out this Weiqi / Baduk <a href="https://weiqi.soumyak4.in" >Roadmap/Guide/Resources</a> I created for Beginners**
 
-⚡ **Check my <a href="https://soumyak4.in/Experiences">Experiences</a>**  
+⚡ **Check my <a href="https://soumyak4.in/Experiences">Experiences</a> or <a href="https://en.wikipedia.org/wiki/User:SoumyaK4" target="_blank"> My Wikipedia Page</a>**  
 
-⚡ Weird Subdomains of this site XD: <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a> , <a href="http://slides.soumyak4.in/" target="_blank">Slides</a>
+⚡ Weird Subdomains of this site XD: <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a> , <a href="http://slides.soumyak4.in/" target="_blank">Slides</a>, <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a>
 
-<!-- ⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>** -->
-<!-- <a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a> -->
+<!-- ⚡ **<a href="https://www.miraquill.com/the_fallen_poet" target="_blank">The Fallen Poet</a>**
+<a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a> -->
 
 # If you GET, GIVE. If you LEARN, TEACH.
 
