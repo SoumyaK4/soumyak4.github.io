@@ -7,7 +7,5 @@ layout: home
 ### Visit [weiqi.soumyak4.in](https://weiqi.soumyak4.in) if not redirected automatically.
 
 <script>
-setTimeout(function() {
   window.location.href = "https://weiqi.soumyak4.in";
-}, 1000);
 </script>
