@@ -43,7 +43,10 @@
 <p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
-  
+
+| . | . | . |
+|-----|------|------|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoumyaK4&theme=dracula)|
 <hr class="solid">
 
 
