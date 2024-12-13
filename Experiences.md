@@ -4,6 +4,8 @@ layout: home
 nav_order: 3
 ---
 
+<script data-goatcounter="https://soumyak4.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
 # My Experiences with different Martial Arts
 <hr>
 
