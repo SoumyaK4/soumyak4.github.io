@@ -1,15 +1,13 @@
 ---
 title: Experiences
-layout: home
+layout: page
 nav_order: 3
 ---
 
-<script data-goatcounter="https://soumyak4.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-
-# My Experiences with different Martial Arts
+## My Experiences with different Martial Arts
 <hr>
 
-## Martial Arts for the Body
+### Martial Arts for the Body
 <hr>
 
 ⚡ **Practicing/Teaching Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>**  
@@ -22,7 +20,9 @@ nav_order: 3
 
 ⚡ **Practicing FMA - Askal Hybrid Balintawak since 2024** 
 
-## Martial Arts for the Brain
+<hr>
+
+### Martial Arts for the Brain
 <hr>
 
 ⚡ **Used to play chess as a child till 2018** 
@@ -42,4 +42,3 @@ nav_order: 3
 ⚡ **Represented India at the Asian Weiqi Championship by Chinese Weiqi Association in 2024** 
 
 <!-- <a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a> -->
-

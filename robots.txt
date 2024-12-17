@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://soumyak4.github.io/sitemap.xml
+Sitemap: https://soumyak4.in/sitemap.xml

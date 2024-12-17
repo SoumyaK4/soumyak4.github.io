@@ -1,15 +1,29 @@
+theme: just-the-docs
 title: SoumyaK4
 description: Martial Arts for Body & Brain
-theme: just-the-docs
-color_scheme: sdark
 url: https://soumyak4.in
-
-logo: "/assets/images/Logo W.png"
+logo: "/assets/images/Logo.png"
 favicon_ico: "/assets/images/favicon.ico"
+color_scheme: sdark # or use dark
+
+# Back to top link
+# back_to_top: true
+# back_to_top_text: "Back to top"
 
 # External navigation links
 nav_external_links:
+  - title: Timeline
+    url: https://soumyak4.in/Timeline
+    hide_icon: true 
+  - title: Baduk Roadmap
+    url: https://weiqi.soumyak4.in/
+    hide_icon: true 
+  - title: Blog
+    url: # https://blog.soumyak4.in
+    hide_icon: true 
   - title: Buy Me A Coffee
     url: https://www.buymeacoffee.com/SoumyaK4
     hide_icon: true 
-    
+    opens_in_new_tab: true 
+
+permalink: /:path/

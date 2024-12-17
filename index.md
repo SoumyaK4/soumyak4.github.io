@@ -1,33 +1,45 @@
 ---
-title: Home
+title: Profile
 layout: home
 nav_order: 1
 ---
 
-<script data-goatcounter="https://soumyak4.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-
-# Hi 👋, I'm Soumya, A Passionate Student/Teacher From India
+## Hi 👋, I’m Soumya, A Passionate Student/Teacher From India
 <hr>
 
-⚡ **Mentor @ <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a>**
+| 🖥️ Present Work 1  | Teacher & Admin at [AIGP](https://aigp.org.in/) |
+| 🥋 Present Work 2 | Teaching Martial Arts for Body & Brain at [BB Dojo](https://bbdojo.soumyak4.in/) |
+| ⚫⚪ Learn Baduk - Weiqi - Go Game | [Go Roadmap](https://weiqi.soumyak4.in/) |
+| ✍🏽 Creative Work | [The Fallen Poet](/Artist) |
+| 🎓 Academics | Nothing much but check my [Formal Studies](/Academics) |
+| ✨ Other | [Experiences](https://soumyak4.in/Experiences) |
+| 🌐 I also love creating front-end websites and AI can't kill my hobby yet | Currently exploring [Jekyll](https://app.daily.dev/squads/jekyllrb) |
+| 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 
-⚡ **Check out this Weiqi / Baduk <a href="https://weiqi.soumyak4.in" >Roadmap/Guide/Resources</a> I created for Beginners**
+<hr>
+#### Projects
 
-⚡ **Check my <a href="https://soumyak4.in/Experiences">Experiences</a> or <a href="https://en.wikipedia.org/wiki/User:SoumyaK4" target="_blank"> My Wikipedia Page</a>**  
+| LQIP | [On Github](https://github.com/SoumyaK4/LQIP-base64) |
+| Guide / Roadmap | [Baduk - Weiqi - Go Game](https://weiqi.soumyak4.in) |
 
-⚡ Weird Subdomains of this site XD: <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a> , <a href="http://slides.soumyak4.in/" target="_blank">Slides</a>, <a href="https://hacked.soumyak4.in/" target="_blank">Hacked</a>
+<hr>
 
-<!-- 
-<a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a> 
--->
+#### Socials
+<hr>
 
-
-<hr class="solid">
-⚡ **<a href="https://www.miraquill.com/user.html?username=the_fallen_poet" target="_blank">The Fallen Poet</a>**
-<div style="max-width:100%;"><div style="position:relative;padding-bottom:calc(56.25% + 52px);height: 0;"><iframe style="position:absolute;top:0;left:0;" width="100%" height="100%" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Ftfp-trapped&theme=dark" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe></div></div>
-
-
-# If you GET, GIVE. If you LEARN, TEACH.
-
-
-
+<a href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github fa-2x"></a>
+<a href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube fa-2x"></a>
+<a href="https://instagram.com/SoumyaK4" target="_blank" class="fab fa-instagram fa-2x"></a>
+<a href="https://twitch.tv/SoumyaK4" target="_blank" class="fab fa-twitch fa-2x"></a>
+<a href="https://mastodon.social/@SoumyaK4" target="_blank" class="fab fa-mastodon fa-2x"></a>
+<a href="https://bsky.app/profile/soumyak4.bsky.social" target="_blank" class="fab fa-bluesky fa-2x"></a>
+<a href="https://t.me/SoumyaK4" target="_blank" class="fab fa-telegram fa-2x"></a>
+<a href="https://www.linkedin.com/in/soumyak4/" target="_blank" class="fab fa-linkedin fa-2x"></a>
+<a href="https://www.tumblr.com/soumyak4" target="_blank" class="fab fa-tumblr fa-2x"></a>
+<a href="https://www.reddit.com/user/SoumyaK4/" target="_blank" class="fab fa-reddit fa-2x"></a>
+<a href="https://in.pinterest.com/SoumyaK4/" target="_blank" class="fab fa-pinterest fa-2x"></a>
+<a href="https://www.threads.net/@soumyak4" target="_blank" class="fab fa-threads fa-2x"></a>
+<a href="https://x.com/SoumyaK4_" target="_blank" class="fab fa-twitter fa-2x"></a>
+<a href="https://www.facebook.com/SoumyaK4" target="_blank" class="fab fa-facebook fa-2x"></a>
+<a href="https://en.wikipedia.org/wiki/User:SoumyaK4" target="_blank" class="fab fa-wikipedia-w fa-2x"></a>
+<a href="https://www.torn.com/profiles.php?XID=2361200" target="_blank" class="fas fa-t fa-2x"></a>

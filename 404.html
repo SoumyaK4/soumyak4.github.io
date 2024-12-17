@@ -1,30 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 : Page Not Found</title>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            // Get the attempted URL path
-            var path = window.location.pathname;
+---
+layout: default
+title: Lost :(
+nav_exclude: true
+permalink: /404
+---
 
-            // Redirect from /baduk/Roadmap to weiqi.soumyak4.in
-            if(path === "/MA.html" || path === "/MA") {
-                setTimeout(function() {
-                window.location.href = "https://soumyak4.in/Experiences";
-                }, 1000);
-            } else {
-                setTimeout(function() {
-                window.location.href = "/"; // Replace "/" with the desired page URL
-                }, 2000);
-            }
-        });
-    </script>
-</head>
-<body>
-    <!-- This content is displayed while the script processes the redirect -->
-    <h1>Page Not Found</h1>
-    <p>You will be redirected shortly, or you can go back to the <a href="/">Homepage</a>.</p>
-</body>
-</html>
+<h1>Page Not Found</h1>
+
+<p>You will be redirected shortly, or you can go back to the <a href="/">Homepage</a>.</p>
+<script>
+    setTimeout(function () {
+        window.location.href = "/";
+    }, 2000); 
+</script>
