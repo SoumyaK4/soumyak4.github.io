@@ -31,7 +31,7 @@ nav_order: 1
 <a href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube fa-2x"></a>
 <a href="https://instagram.com/SoumyaK4" target="_blank" class="fab fa-instagram fa-2x"></a>
 <a href="https://twitch.tv/SoumyaK4" target="_blank" class="fab fa-twitch fa-2x"></a>
-<a rel="me" href="https://mastodon.social/@SoumyaK4" target="_blank" class="fab fa-mastodon fa-2x">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@SoumyaK4" target="_blank" class="fab fa-mastodon fa-2x"></a>
 <a href="https://bsky.app/profile/soumyak4.bsky.social" target="_blank" class="fab fa-bluesky fa-2x"></a>
 <a href="https://t.me/SoumyaK4" target="_blank" class="fab fa-telegram fa-2x"></a>
 <a href="https://www.linkedin.com/in/soumyak4/" target="_blank" class="fab fa-linkedin fa-2x"></a>
