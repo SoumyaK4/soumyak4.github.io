@@ -1,5 +1,6 @@
 ---
 title: Experiences
+description: My experiences is different martial arts, such as Wing Chun, Ving Tsun, Kung Fu,Tai Chi, Weiqi etc.
 layout: page
 nav_order: 3
 ---

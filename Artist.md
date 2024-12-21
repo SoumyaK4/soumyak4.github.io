@@ -1,5 +1,6 @@
 ---
 title: Artist Profile
+description: Remembering the time I used to have creative hobbies other that Tech & Martial Arts
 layout: page
 nav_order: 4
 ---

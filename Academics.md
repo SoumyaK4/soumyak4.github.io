@@ -1,5 +1,6 @@
 ---
 title: Formal Study
+description: A collection of my Certificates related to Formal Studies
 layout: page
 nav_order: 2
 ---
