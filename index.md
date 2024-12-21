@@ -24,9 +24,6 @@ nav_order: 1
 
 <hr>
 
-#### Socials
-<hr>
-
 <a href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github fa-2x"></a>
 <a href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube fa-2x"></a>
 <a href="https://instagram.com/SoumyaK4" target="_blank" class="fab fa-instagram fa-2x"></a>
