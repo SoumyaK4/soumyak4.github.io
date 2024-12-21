@@ -2,6 +2,8 @@
 title: Demo
 layout: page
 nav_exclude: true
+description: A brief description of your page content
+image: /assets/images/Logo.png
 ---
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>

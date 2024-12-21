@@ -1,8 +1,6 @@
 ---
 title: Experiences
 layout: page
-description: A brief description of your page content
-# image: /assets/images/Logo.png
 nav_order: 3
 ---
 
